@@ -1,7 +1,13 @@
 [package]
 name = "nakamoto-net-mio"
+description = "Mio-based networking for nakamoto"
+homepage = "https://github.com/johncantrell97/nakamoto-net-mio"
+documentation = "https://docs.rs/nakamoto-net-mio"
+repository = "https://github.com/johncantrell97/nakamoto-net-mio"
 version = "0.1.0"
+authors = ["John Cantrell <johncantrell97@protonmail.com>"]
 edition = "2021"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
